@@ -10,4 +10,4 @@ An app using Python, Flask, SQLAlchemy, Marshmallow and SQLite. Based on a tech 
 
 Please find below the link for the video.
 
-Please click here for an [Excellent Video on creating RESTFUL app using Flask] (https://www.youtube.com/watch?v=6RdZNiyISVU)
+Please click here for an [Excellent Video on creating RESTFUL app using Flask](https://www.youtube.com/watch?v=6RdZNiyISVU)
