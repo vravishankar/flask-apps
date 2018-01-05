@@ -6,7 +6,7 @@ A simple todo application using Flask and RestFul.
 
 ## Pycon App
 
-An app using Python, Flask, SQLAlchemy, Marshmallow and SQLite. Based on a tech talk in Pycon2016.
+An app using Python, Flask, SQLAlchemy, Marshmallow and SQLite. Inspired by a tech talk in Pycon2016.
 
 Please find below the link for the video.
 
